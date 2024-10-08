@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://yizuvudijegu.pages.dev/sitemap.xml
